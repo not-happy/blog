@@ -6,4 +6,5 @@
 ## mysql
 
 * [mysql one](mysql/mysql-one.md)
+* [mysql study](mysql/mysql-study.md)
 
