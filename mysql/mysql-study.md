@@ -1,4 +1,0 @@
-# mysql study
-
-mysql study
-
